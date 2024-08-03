@@ -168,7 +168,7 @@ section .title::after{
 
     background: #8E0E00;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, #1F1C18, #8E0E00);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #1F1C18, #8E0E00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: linear-gradient(90deg, rgba(7, 178, 179, 1) 0%, rgba(55, 105, 190, 0.9472163865546218) 25%, rgba(0, 255, 128, 1) 83%); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
     height: 100vh;
     color: #fff;
@@ -221,7 +221,7 @@ background: linear-gradient(to right, #1F1C18, #8E0E00); /* W3C, IE 10+/ Edge, F
 .about{
     background: #C02425;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #F0CB35, #C02425);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #F0CB35, #C02425); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(90deg, rgba(7, 178, 179, 1) 0%, rgba(55, 105, 190, 0.9472163865546218) 25%, rgba(0, 255, 128, 1) 83%); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     
 }
 .about .title::after{
@@ -324,7 +324,7 @@ background: linear-gradient(to right, #283E51, #4B79A1); /* W3C, IE 10+/ Edge, F
 .skills{
     background: #C02425;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, #F0CB35, #C02425);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #F0CB35, #C02425); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: linear-gradient(90deg, rgba(7, 178, 179, 1) 0%, rgba(55, 105, 190, 0.9472163865546218) 25%, rgba(0, 255, 128, 1) 83%); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
 .skills .title::after{
@@ -406,7 +406,7 @@ background: linear-gradient(to right, #F0CB35, #C02425); /* W3C, IE 10+/ Edge, F
 .contact{
     background: #457fca;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, #5691c8, #457fca);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #5691c8, #457fca); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: linear-gradient(90deg, rgba(7, 178, 179, 1) 0%, rgba(55, 105, 190, 0.9472163865546218) 25%, rgba(0, 255, 128, 1) 83%); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
 .contact .title::after{
